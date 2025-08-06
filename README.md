@@ -1,4 +1,4 @@
-# LangGraph & Ollama Gemma3 QAT Chatbot
+# LangGraph & Ollama Gemma3 Chatbot
 
 This repository demonstrates a stateful chatbot built using **LangGraph** and **Ollama**, running the quantized Gemma3 model locally. Conversations are persisted in memory to maintain context between messages.
 
