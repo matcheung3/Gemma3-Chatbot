@@ -1,0 +1,6 @@
+langchain
+langgraph
+ollama
+langchain-community
+faiss-cpu
+PyMuPDF
